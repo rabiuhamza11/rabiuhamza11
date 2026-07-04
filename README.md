@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-I'm a software engineer and entrepreneur building enterprise-grade AI platforms. I focus on practical AI applications — construction planning, trading systems, and multi-agent orchestration — that solve real problems in emerging markets and beyond.
+I'm a software engineer and entrepreneur building enterprise-grade AI platforms. I focus on practical AI applications — construction planning, trading systems, digital marketplaces, and multi-agent orchestration — that solve real problems in emerging markets and beyond.
 
 Founder of **HARZ Construction** and **Harzcó**. Author of *"The Complete Genius 365"* — a 365-day personal development program.
 
@@ -35,12 +35,16 @@ AI-powered construction planning platform for the Nigerian market. Generates pro
 `Node.js` `Express` `MongoDB` `Paystack` `AI`
 
 ### 📊 [TradeOS](https://github.com/rabiuhamza11/tradeos)
-Enterprise AI trading platform supporting 5 exchanges (Binance, Coinbase, Alpaca, OANDA) with real-time WebSocket streaming, live candlestick charts, and 6 AI trading agents.
+Enterprise AI trading platform supporting 5 exchanges (Binance, Coinbase, Alpaca, OANDA) with real-time WebSocket streaming, live candlestick charts, 6 AI trading agents, and portfolio management.
 `NestJS` `Next.js` `Prisma` `WebSocket` `Docker` `K8s`
 
 ### 🌌 [OMEGA INFINITY 1000](https://github.com/rabiuhamza11/omega-infinity-1000)
-Enterprise AI orchestration platform with 10 specialized agents, a workflow engine, deployment automation, and multi-tenant architecture.
+Enterprise AI orchestration platform with 10 specialized agents, workflow engine, deployment automation, and multi-tenant architecture.
 `NestJS` `Next.js` `Agent SDK` `Prisma` `Docker` `CI/CD`
+
+### 🛒 [HarzDM](https://github.com/rabiuhamza11/harzdm-marketplace)
+Global digital marketplace with multi-seller support, Stripe payments, AI-generated cover images, and real-time seller dashboard. 19 products, 9 sellers, 8 categories.
+`Stripe` `Base44` `AI` `Multi-Seller`
 
 ---
 
